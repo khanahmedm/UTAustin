@@ -5,7 +5,8 @@ Courses taken in MS in Data Science.
 Started in Fall of 2021.
 
 ## Courses completed:
-Fall 2021 <br> #### 1. DSC 381 - Probability and Simulation based Inference
+Fall 2021 <br> 
+#### 1. DSC 381 - Probability and Simulation based Inference
 
 
 Spring 2022
